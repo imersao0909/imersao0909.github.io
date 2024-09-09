@@ -20,3 +20,24 @@ section {
 .faq .accordion-button {
     font-weight: bold;
 }
+
+.cadastro {
+    background-color: #EFEFEF;
+}
+
+.endereco a {
+    color: white;
+}
+
+.endereco a:hover {
+    color: #DEDEDE;
+}
+
+.endereco .material-icons {
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.rodape .material-icons {
+    vertical-align: middle;
+}
