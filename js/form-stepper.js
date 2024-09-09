@@ -24,3 +24,12 @@ document.getElementById('prev3').addEventListener('click', () => {
     DIV_STEP_3.classList.add('d-none');
     DIV_STEP_2.classList.remove('d-none');
 });
+
+
+// segredo
+
+const BTN_SEGREDO = document.getElementById('btn_segredo');
+
+BTN_SEGREDO.addEventListener('click', () => {
+    BTN_SEGREDO.style.display = 'none';
+});
